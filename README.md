@@ -1,1 +1,2 @@
-# batalha-naval Projeto feito em Java, onde foi ciclado códigos e estudado POO
+# batalha-naval
+Projeto que simula uma batalha naval entre o usuário e a máquina, um sistema de jogadas aléatórias que interpreta a máquina. O usuário terá a opção de escolher o tamanho do tabulério e a quantidade de navios, respeitando o limite proposto relacionando à proporção do tabuleiro. Em seguida iniciará a batalha, onde cada jogada terá a chance de acertar o tabulheiro adversário. O jogo acaba quando todos os navis inimigos forem destuidos. O sistema ainda precisa de melhorias.
